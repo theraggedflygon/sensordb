@@ -1,0 +1,9 @@
+{
+  "Username": "SENSORDB EMAIL/USERNAME",
+  "Password": "SENSORDB PASSWORD",
+  "CognitoPoolId": "COGNITO POOL ID",
+  "CognitoPoolRegion": "REGION (Can be found in Cognito Pool ID)",
+  "CognitoClientId": "COGNITO CLIENT ID",
+  "SensorDbApiUrl": "S3 BUCKET URL",
+  "S3DownloadsBucket": "APPSYNC ENDPOINT URL"
+}

@@ -1,1 +1,3 @@
 boto3
+six
+python_graphql_client

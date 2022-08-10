@@ -131,3 +131,6 @@ dmypy.json
 # JetBrains
 .idea/
 __pycache__/
+
+# Credentials
+config/config.json
